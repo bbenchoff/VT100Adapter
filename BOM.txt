@@ -1,0 +1,15 @@
+Part Value      Device      	Package               Description           			P/N
+
+                                                                                                             
+C1   220uF 50V  CAP_POLPTH1 	CPOL-RADIAL-100UF-25V Capacitor Polarized                                                                                                                                                                                                   
+C2   0.01 uF    CAPEZ       	CAP-PTH-SMALLEZ       Capacitor                                                                                                                                                                                                             
+J1   ATX24RH    ATX24RH     	ATX24_RIGHT_ANGLE     ATX24 Pin PRT-09498    			Mouser 538-39-30-0240
+
+R1   6.8 Ohm	Resistor			      Wire-wound Resistor			Mouser 756-WHS5-6R8JT075
+                                                      
+U1   DFBRIDGE   Diode Bridge			                                               	Mouser 625-DF04MA-E3                                                                                                                                                                                    
+U2   7824T      7824T       	TO220H                Positive Voltage Regulator	       	Mouser 755-BA17824T                                                                                                                                                                      
+X1   X1           	    		              Terminal Block                            Mouser 571-282856-2                                                                                                                                                 
+X2   X2           	    		              Terminal Block                            Mouser 571-282856-2
+
+T1		Transformer			      Power Transformers 115/230 6VA 24VCT	Mouser 546-186B24					                                                                                                                                               
